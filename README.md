@@ -567,3 +567,5 @@ async function obtenerDatos() {
 ```
 En este ejemplo, la función "obtenerDatos" es una función asíncrona que realiza una petición HTTP a una API y espera a que se complete la respuesta antes de continuar. Mientras espera la respuesta, el código que sigue después de la función "obtenerDatos" seguirá ejecutándose, lo que permite que el programa no se bloquee mientras espera la respuesta.
 En resumen, en JavaScript, "async" es una palabra clave que se puede utilizar para indicar que una función es asíncrona y "await" es una palabra clave que se utiliza para indicar el punto en el que la función debe esperar la respuesta de una operación asíncrona. Las funciones asíncronas permiten que el código JavaScript se ejecute de manera más eficiente y rápida, ya que no bloquean la ejecución del programa mientras esperan la respuesta y facilitan la escritura de código que realiza tareas que tienen un tiempo de ejecución prolongado.
+
+[Volver al Índice 🔝](#índice)
